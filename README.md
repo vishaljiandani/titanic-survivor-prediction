@@ -1,2 +1,2 @@
 # titanic-survivor-prediction
-Logistic regression model to predict survival on the RMS titanic
+K-nearest neighbors model to predict survival on the RMS titanic
